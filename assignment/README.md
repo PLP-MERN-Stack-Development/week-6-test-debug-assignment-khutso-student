@@ -21,6 +21,8 @@ This is a full-stack Task Management application built with the MERN stack (Mong
 - Node.js (v16 or higher recommended)
 - npm or pnpm installed globally
 - MongoDB database (local or cloud, e.g., MongoDB Atlas)
+- back-end npm
+- frony-end pnpm
 
 ### Environment Variables
 
